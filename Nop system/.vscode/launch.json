@@ -1,0 +1,19 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET Core Launch (console)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "/home/darkbeard/Documents/Udemy/Event Driven Architecture - The Complete Guide/CASE/Nop system/bin/Debug/net6.0/TelemetryRabbitClient",
+      "args": [],
+      "cwd": "/home/darkbeard/Documents/Udemy/Event Driven Architecture - The Complete Guide/CASE/Nop system",
+      "stopAtEntry": false,
+      "console": "internalConsole"
+    }
+  ]
+}

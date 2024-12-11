@@ -1,0 +1,17 @@
+/home/darkbeard/Documents/Udemy/Event Driven Architecture - The Complete Guide/CASE/Nop system/bin/Debug/net7.0/TelemetryRabbitClient
+/home/darkbeard/Documents/Udemy/Event Driven Architecture - The Complete Guide/CASE/Nop system/bin/Debug/net7.0/TelemetryRabbitClient.deps.json
+/home/darkbeard/Documents/Udemy/Event Driven Architecture - The Complete Guide/CASE/Nop system/bin/Debug/net7.0/TelemetryRabbitClient.runtimeconfig.json
+/home/darkbeard/Documents/Udemy/Event Driven Architecture - The Complete Guide/CASE/Nop system/bin/Debug/net7.0/TelemetryRabbitClient.dll
+/home/darkbeard/Documents/Udemy/Event Driven Architecture - The Complete Guide/CASE/Nop system/bin/Debug/net7.0/TelemetryRabbitClient.pdb
+/home/darkbeard/Documents/Udemy/Event Driven Architecture - The Complete Guide/CASE/Nop system/bin/Debug/net7.0/RabbitMQ.Client.dll
+/home/darkbeard/Documents/Udemy/Event Driven Architecture - The Complete Guide/CASE/Nop system/obj/Debug/net7.0/TelemetryRabbitClient.csproj.AssemblyReference.cache
+/home/darkbeard/Documents/Udemy/Event Driven Architecture - The Complete Guide/CASE/Nop system/obj/Debug/net7.0/TelemetryRabbitClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/darkbeard/Documents/Udemy/Event Driven Architecture - The Complete Guide/CASE/Nop system/obj/Debug/net7.0/TelemetryRabbitClient.AssemblyInfoInputs.cache
+/home/darkbeard/Documents/Udemy/Event Driven Architecture - The Complete Guide/CASE/Nop system/obj/Debug/net7.0/TelemetryRabbitClient.AssemblyInfo.cs
+/home/darkbeard/Documents/Udemy/Event Driven Architecture - The Complete Guide/CASE/Nop system/obj/Debug/net7.0/TelemetryRabbitClient.csproj.CoreCompileInputs.cache
+/home/darkbeard/Documents/Udemy/Event Driven Architecture - The Complete Guide/CASE/Nop system/obj/Debug/net7.0/TelemetryRabbitClient.csproj.CopyComplete
+/home/darkbeard/Documents/Udemy/Event Driven Architecture - The Complete Guide/CASE/Nop system/obj/Debug/net7.0/TelemetryRabbitClient.dll
+/home/darkbeard/Documents/Udemy/Event Driven Architecture - The Complete Guide/CASE/Nop system/obj/Debug/net7.0/refint/TelemetryRabbitClient.dll
+/home/darkbeard/Documents/Udemy/Event Driven Architecture - The Complete Guide/CASE/Nop system/obj/Debug/net7.0/TelemetryRabbitClient.pdb
+/home/darkbeard/Documents/Udemy/Event Driven Architecture - The Complete Guide/CASE/Nop system/obj/Debug/net7.0/TelemetryRabbitClient.genruntimeconfig.cache
+/home/darkbeard/Documents/Udemy/Event Driven Architecture - The Complete Guide/CASE/Nop system/obj/Debug/net7.0/ref/TelemetryRabbitClient.dll
